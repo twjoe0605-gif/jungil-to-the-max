@@ -961,14 +961,14 @@ img {
 .data-link {
   background:
     linear-gradient(180deg, rgb(2 14 40 / 28%), rgb(2 14 40 / 92%)),
-    url("/nightingale-data-analysis.png") center / cover;
+    url("/nightingale-data-analysis.webp") center / cover;
 }
 
 .data-link:hover,
 .data-link:focus-visible {
   background:
     linear-gradient(180deg, rgb(2 14 40 / 18%), rgb(2 14 40 / 84%)),
-    url("/nightingale-data-analysis.png") center / cover;
+    url("/nightingale-data-analysis.webp") center / cover;
 }
 
 .field-section {

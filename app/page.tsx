@@ -167,7 +167,7 @@ export default function Home() {
           <div className="hero-halo" aria-hidden="true" />
           <figure className="hero-image">
             <img
-              src="/teacher-portrait.png"
+              src="/teacher-portrait.webp"
               alt="교실에서 학생의 성장을 응원하는 교사 캐릭터"
               width="1024"
               height="1536"
@@ -331,7 +331,7 @@ export default function Home() {
           <div className="influence-links" aria-label="AI 교육 활동 자료">
             <a
               className="influence-link data-link"
-              href="/nightingale-data-analysis.png"
+              href="/nightingale-data-analysis.webp"
               target="_blank"
               rel="noreferrer"
             >
