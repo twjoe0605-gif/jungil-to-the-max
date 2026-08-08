@@ -252,7 +252,7 @@ export default function Home() {
       <section className="school-section" aria-labelledby="school-title">
         <div className="school-image-wrap">
           <img
-            src="/jump-higher-brand.png"
+            src="/jump-higher-brand.webp"
             alt="Jungil High School Jump Higher 교육 브랜드 캐릭터 이미지"
             width="1279"
             height="2048"
