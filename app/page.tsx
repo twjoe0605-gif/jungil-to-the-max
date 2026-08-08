@@ -97,7 +97,7 @@ export default function Home() {
           className="header-cta"
           href="https://youtube.com/@ddingle?si=jn0luDO_kWc8hdwZ"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
         >
           YouTube <span aria-hidden="true">↗</span>
         </a>
@@ -136,7 +136,7 @@ export default function Home() {
               className="channel-link"
               href="https://youtube.com/@ddingle?si=jn0luDO_kWc8hdwZ"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               <span className="play-dot" aria-hidden="true">▶</span>
               유튜브 채널
@@ -333,7 +333,7 @@ export default function Home() {
               className="influence-link data-link"
               href="/nightingale-data-analysis.webp"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               <span>01 · DATA</span>
               <strong>데이터 분석</strong>
@@ -343,7 +343,7 @@ export default function Home() {
               className="influence-link"
               href="/gemini-storybook-ai-teacher.pdf"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               <span>02 · CREATE</span>
               <strong>AI 활용 창작(제미나이 스토리북)</strong>
@@ -353,7 +353,7 @@ export default function Home() {
               className="influence-link"
               href="https://canva.link/vm4dgi5pwu0nkew"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               <span>03 · VIDEO</span>
               <strong>AI 동영상 제작</strong>
@@ -441,7 +441,7 @@ export default function Home() {
             className="training-card"
             href="https://notebook.google.com/notebook/f16055cc-5ed4-48b0-8bc4-4a8317cafdc6"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             <div className="training-card-top">
               <span>01 · DESIGN</span>
@@ -457,7 +457,7 @@ export default function Home() {
             className="training-card"
             href="https://notebook.google.com/notebook/205b471c-36d3-4784-b1d2-972c30b62098/preview"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             <div className="training-card-top">
               <span>02 · SUPPORT</span>
@@ -473,7 +473,7 @@ export default function Home() {
             className="training-card"
             href="https://max09.my.canva.site/up-down-number-game"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             <div className="training-card-top">
               <span>03 · CREATE</span>
@@ -508,7 +508,7 @@ export default function Home() {
             className="channel-button"
             href="https://youtube.com/@ddingle?si=jn0luDO_kWc8hdwZ"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             유튜브 채널에서 만나기 <span aria-hidden="true">↗</span>
           </a>
@@ -523,7 +523,7 @@ export default function Home() {
             className="primary-button coral-button"
             href="https://docs.google.com/forms/d/e/1FAIpQLSddhukKrKlBsO4NucKIvo6hVG2F1rcN8xXKDDHVj67SHbiFhQ/viewform?usp=dialog"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             Google Form으로 강의 문의 <span aria-hidden="true">↗</span>
           </a>
@@ -543,7 +543,7 @@ export default function Home() {
         <a
           href="https://youtube.com/@ddingle?si=jn0luDO_kWc8hdwZ"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
         >
           YouTube <span aria-hidden="true">↗</span>
         </a>
