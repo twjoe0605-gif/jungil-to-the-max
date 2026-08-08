@@ -422,7 +422,7 @@ export default function Home() {
           </div>
           <div>
             <p className="training-kicker">LEARN TODAY · USE TOMORROW</p>
-            <h2>배워서 바로 학교 현장에<br />적용하는 AI 강의<span>(연수)</span></h2>
+            <h2>AI 연수</h2>
             <p>
               도구 사용법에 머물지 않고 수업·평가 설계부터 학생 지원, 웹앱 제작까지
               교실에서 바로 실행할 수 있는 결과물을 함께 만듭니다.
